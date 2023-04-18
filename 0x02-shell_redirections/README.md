@@ -1,1 +1,1 @@
-0x02 shell 10 redirection and filtersreadne file
+0x02 shell 10 redirections and filters readme file
